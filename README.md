@@ -1,4 +1,4 @@
-# Machine Learning Jupyter Notebook 
+# Machine Learning Jupyter Notebooks 
 
 This repository contains a collection of Jupyter Notebook templates for data science that has content on Exploaratory Data Analysis and hypothesis tests. 
 These templates are designed to help you run and understand simple codes in python when doing Exploaratory Data Analysis and Hypothesis testing.
